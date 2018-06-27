@@ -4,7 +4,7 @@
 
 ## Butterfly 類別
 <p>欲新增蝴蝶資料可依照以下class類別欄位名稱增加陣列</p>
-<img src="https://github.com/pink11112333/104321030/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-06-27%20%E4%B8%8B%E5%8D%882.42.48.png" >
+<img src="https://github.com/s104321013/MidProject-/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.tiff" >
 
 
 
